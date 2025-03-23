@@ -19,3 +19,6 @@ The original login fields only have separator lines on the righ, which makes the
 
 ## Contributing
 I do not have enough knowledge to continue improving upon the initial commit, so any contributions to the project are not only welcome, but also requested.
+
+## Preview
+![](Previews/crossworlds.png)
