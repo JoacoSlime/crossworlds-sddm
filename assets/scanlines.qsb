@@ -1,0 +1,13 @@
+#version 440
+uniform sampler2D source;
+uniform sampler2D scanlineTexture;
+uniform float qt_Opacity;
+in vec2 qt_TexCoord0;
+out vec4 fragColor;
+
+void main() {
+    vec4 bgColor = texture(source, qt_TexCoord0);
+    vec4 scanlineColor = texture(scanlineTexture, qt_TexCoord0);
+    vec4 blendedColor = max(bgColor, scanlineColor * qt_Opacity);
+    fragColor = blendedColor;
+}
