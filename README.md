@@ -1,7 +1,7 @@
 # Crossworlds SDDM Theme
 This is a SDDM login theme based on the login screen present on [CrossCode](https://www.cross-code.com/)'s intro.
 
-This theme es completely and absolutely aesthetical. It's not made with practicality in mind and does not have the necessary characteristics to be completely usable. USE AT YOUR OWN RISK.
+This theme is completely and absolutely aesthetical. It's not made with practicality in mind and does not have the necessary characteristics to be completely usable. USE AT YOUR OWN RISK.
 
 ## Installation
 - Download the latest release or clone the repository.
