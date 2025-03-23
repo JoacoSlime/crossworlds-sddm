@@ -2,11 +2,12 @@
 Name=CrossWorlds
 Author=JoacoSlime
 Copyright=(c) 2025, JoacoSlime
-License=CC-BY-SA
+License=GPL-3.0-or-later
 Type=sddm-theme
-Version=0.1
+Version=1.0
 MainScript=Main.qml
 ConfigFile=theme.conf
+Screenshot=Previews/crossworlds.png
 TranslationsDirectory=translations
 Email=JoacoSlime@proton.me
 Theme-Id=crossworlds
